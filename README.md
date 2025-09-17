@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="#-features">Features</a> •
-  <a href="##demo">Demo</a> •
-  <a href="##installation">Installation</a> •
-  <a href="##usage">Usage</a> •
-  <a href="##tech-stack">Tech Stack</a> •
-  <a href="##contributing">Contributing</a>
+  <a href="#-demo">Demo</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-contributing">Contributing</a>
 </p>
 
 ---
