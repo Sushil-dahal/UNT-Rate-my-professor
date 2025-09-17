@@ -250,7 +250,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the project:
 
-- 📧 **Email**: [your-email@example.com]
+- 📧 **Email**: dahalsushil987@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/unt-rater/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/unt-rater/discussions)
 
