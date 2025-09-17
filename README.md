@@ -25,10 +25,9 @@
 
 ## 📖 About
 
-UNT Rater is a sleek, student-focused web application that allows University of North Texas students to browse, rate, and review professors across all departments. Built with modern web technologies and a clean, professional design aesthetic, it provides an intuitive platform for students to make informed decisions about their courses and professors.
+UNT Rater is a sleek, student-focused web application that allows University of North Texas students to browse, rate, and review professors across all departments. Built with modern web technologies and a clean, professional design aesthetic, it offers an intuitive platform that enables students to make informed decisions about their courses and professors.
 
-**Original Design**: Based on the [Figma design](https://www.figma.com/design/8YsPOn2mpbrvYPZVQYnw5N/UNT-Rater)
-
+**Original Design**: Based on the [Figma design]
 ## ✨ Features
 
 ### 🔍 **Professor Discovery**
@@ -251,13 +250,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help with the project:
 
 - 📧 **Email**: dahalsushil987@gmail.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/unt-rater/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/unt-rater/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Sushil-dahal/UNT-Rater/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Sushil-dahal/UNT-Rater/discussions/1)
 
 ---
 
 <p align="center">
   <strong>Built by Quadra Tech</strong><br>
-  Made with ❤️ for the UNT student community
+  For the UNT student community
 </p>
   
